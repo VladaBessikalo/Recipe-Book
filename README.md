@@ -1,3 +1,9 @@
+# Description
+
+Recipe Book is an Angular Application with recipes and shopping list manager. 
+Users can explore the recipe collection and create their own recipes. 
+The app allows users to create a personalized shopping list based on selected recipes.
+
 # CourseProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
