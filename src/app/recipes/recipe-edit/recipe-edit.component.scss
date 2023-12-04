@@ -1,0 +1,16 @@
+button {
+    margin-bottom: 20px;
+
+    &:not(:last-child) {
+        margin-right: 10px;
+    }
+}
+
+input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched  {
+    border: 1px solid red;
+}
+
+img {
+    display: block;
+    margin-bottom: 15px;
+}

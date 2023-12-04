@@ -1,0 +1,9 @@
+button {
+    &:not(:last-child) {
+        margin-right: 10px;
+    }
+}
+
+.auth-heading {
+    margin-bottom: 40px;
+}
